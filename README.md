@@ -15,3 +15,4 @@ IMAGEN DEL JUEGO
 
 Y aquí un enlace directo al juego:
 
+https://main--admirable-druid-053103.netlify.app/
